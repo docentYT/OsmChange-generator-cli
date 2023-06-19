@@ -22,7 +22,7 @@ pip install osmchange-generator-cli
 # Usage
 
 ```
-osmchange-generator \<input-file-names> \<osm-data-file-name> <out-file-name> <tag> (--log) (--create) (--delete) (--changeset-id)
+osmchange-generator <input-file-names> <osm-data-file-name> <out-file-name> <tag> (--log) (--create) (--delete) (--changeset-id)
 ```
 ## Help command with all arguments
 ```
