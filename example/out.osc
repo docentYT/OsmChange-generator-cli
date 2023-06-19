@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<osmChange version="0.6" generator="OsmChange-generator-cli">
+	<create>
+		<node id="-1" version="1" changeset="1" lat="4" lon="3">
+			<tag k="ref" v="2"/>
+		</node>
+		<node id="-3" version="1" changeset="1" lat="38.536746973856594" lon="70.59089465507677"/>
+		<node id="-4" version="1" changeset="1" lat="38.54103263345854" lon="70.5938449309838"/>
+		<node id="-5" version="1" changeset="1" lat="38.53867005782439" lon="70.58288676332728"/>
+	</create>
+	<delete>
+		<node id="3" version="1" changeset="1" lat="6" lon="5">
+			<tag k="ref" v="3"/>
+		</node>
+	</delete>
+	<create>
+		<way id="-2" version="1" changeset="1">
+			<tag k="ref" v="5"/>
+			<nd ref="-3"/>
+			<nd ref="-4"/>
+			<nd ref="-5"/>
+		</way>
+	</create>
+</osmChange>

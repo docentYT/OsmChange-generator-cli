@@ -1,0 +1,70 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+            "@id": "node/1",
+            "ref": "1"
+        },
+        "geometry": {
+          "coordinates": [
+            1,
+            2
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "@id": "node/3",
+            "ref": "3"
+        },
+        "geometry": {
+          "coordinates": [
+            5,
+            6
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "ref": "9",
+            "natural": "tree"
+        },
+        "geometry": {
+          "coordinates": [
+            9,
+            9
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "@id": "way/1"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              70.59089465507677,
+              38.536746973856594
+            ],
+            [
+              70.5938449309838,
+              38.54103263345854
+            ],
+            [
+              70.58288676332728,
+              38.53867005782439
+            ]
+          ],
+          "type": "LineString"
+        }
+      }
+    ]
+  }
