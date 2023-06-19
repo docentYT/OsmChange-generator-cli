@@ -32,4 +32,4 @@ osmchange-generator --help
 ```
 osmchange-generator input_file.geojson osm_data.geojson out.osc ref --create --delete
 ```
-(See `example` for generated file)
+(See [`example`](https://github.com/docentYT/OsmChange-generator-cli/tree/main/example) for generated file)
