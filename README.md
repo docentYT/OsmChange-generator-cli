@@ -5,6 +5,9 @@
         <img alt="PyPI" src="https://img.shields.io/pypi/v/osmchange-generator-cli">
     </a>
     <a href="https://pypi.org/project/osmchange-generator-cli/">
+       <img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/osmchange-generator-cli">
+    </a>
+    <a href="https://pypi.org/project/osmchange-generator-cli/">
         <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/osmchange-generator-cli">
     </a>
 </p>
