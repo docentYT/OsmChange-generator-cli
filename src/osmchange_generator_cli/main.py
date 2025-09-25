@@ -2,7 +2,7 @@ import typer
 from rich import print
 import os
 import json
-from osm_easy_api import OsmChange, Node, Way, Action, Tags
+from osm_easy_api.data_classes import OsmChange, Node, Way, Action, Tags
 
 app = typer.Typer()
 
@@ -92,3 +92,6 @@ def main(input_data_file_names: list[str], osm_data_file_name: str, output_file_
     with open(os.path.join(output_file_name), "w", encoding="utf8") as file:
         file.write(osmChange.to_xml(changeset_id))
     if log: print(f"[bold blue]INFO:[/bold blue] [bold]OsmChange[/bold] saved to [bold]{output_file_name}[/bold]")
+
+if __name__ == "__main__":
+    typer.run(main)

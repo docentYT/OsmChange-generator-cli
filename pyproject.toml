@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "osmchange_generator_cli"
-version = "0.1.0"
+version = "0.2.0"
 description = "OsmChange file generator useful for importing and updating data in OpenStreetMap."
 authors = ["Christopher Kwiatkowski"]
 license = "MIT"
@@ -25,11 +25,14 @@ osmchange-generator = "src.osmchange_generator_cli.main:app"
 
 [tool.poetry.dependencies]
 python = "^3.10"
-typer = "^0.9.0"
-osm-easy-api = "^1.0.0"
-rich = "^13.4.2"
-
+typer = "0.19.2"
+osm-easy-api = "3.0.2"
 
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+
+[project]
+name = "osmchange_generator_cli"
+version = "0.2.0"
+requires-python = ">= 3.10"
