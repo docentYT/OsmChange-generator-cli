@@ -1,0 +1,558 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-03-10T09:56:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13288728180",
+        "bus": "yes",
+        "gtfs:stop_id:FR-ARA-C38": "11545",
+        "gtfs:stop_name:FR-ARA-C38": "Au Matrere",
+        "highway": "bus_stop",
+        "name": "Au Matrere",
+        "public_transport": "platform",
+        "@timestamp": "2025-11-18T14:10:46Z",
+        "@version": 3,
+        "@changeset": 174818184,
+        "@user": "lolow-import",
+        "@uid": 23480106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2699799,
+          45.1082099
+        ]
+      },
+      "id": "node/13288728180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13288728181",
+        "bus": "yes",
+        "gtfs:stop_id:FR-ARA-C38": "11544",
+        "gtfs:stop_name:FR-ARA-C38": "Au Matrere",
+        "highway": "bus_stop",
+        "name": "Au Matrere",
+        "public_transport": "platform",
+        "@timestamp": "2025-11-18T14:10:46Z",
+        "@version": 3,
+        "@changeset": 174818184,
+        "@user": "lolow-import",
+        "@uid": 23480106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.27002,
+          45.1081399
+        ]
+      },
+      "id": "node/13288728181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13347769796",
+        "bus": "yes",
+        "gtfs:stop_id:FR-ARA-C38": "11547",
+        "gtfs:stop_name:FR-ARA-C38": "Bourg",
+        "highway": "bus_stop",
+        "name": "Bourg",
+        "public_transport": "platform",
+        "@timestamp": "2025-12-02T12:40:00Z",
+        "@version": 1,
+        "@changeset": 175400886,
+        "@user": "lolow-import",
+        "@uid": 23480106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2787699,
+          45.1117499
+        ]
+      },
+      "id": "node/13347769796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13347769797",
+        "bus": "yes",
+        "gtfs:stop_id:FR-ARA-C38": "11546",
+        "gtfs:stop_name:FR-ARA-C38": "Bourg",
+        "highway": "bus_stop",
+        "name": "Bourg",
+        "public_transport": "platform",
+        "@timestamp": "2025-12-02T12:40:00Z",
+        "@version": 1,
+        "@changeset": 175400886,
+        "@user": "lolow-import",
+        "@uid": 23480106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.27903,
+          45.11185
+        ]
+      },
+      "id": "node/13347769797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13366927375",
+        "bus": "yes",
+        "gtfs:stop_id:FR-ARA-C38": "11543",
+        "gtfs:stop_name:FR-ARA-C38": "Carrefour L'Allière",
+        "highway": "bus_stop",
+        "name": "Carrefour L'Allière",
+        "public_transport": "platform",
+        "@timestamp": "2025-12-10T12:33:30Z",
+        "@version": 1,
+        "@changeset": 175757393,
+        "@user": "lolow-import",
+        "@uid": 23480106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2686099,
+          45.1076999
+        ]
+      },
+      "id": "node/13366927375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13366927376",
+        "bus": "yes",
+        "gtfs:stop_id:FR-ARA-C38": "11542",
+        "gtfs:stop_name:FR-ARA-C38": "Carrefour L'Allière",
+        "highway": "bus_stop",
+        "name": "Carrefour L'Allière",
+        "public_transport": "platform",
+        "@timestamp": "2025-12-10T12:33:30Z",
+        "@version": 1,
+        "@changeset": 175757393,
+        "@user": "lolow-import",
+        "@uid": 23480106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.26858,
+          45.1076299
+        ]
+      },
+      "id": "node/13366927376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13386557332",
+        "bus": "yes",
+        "gtfs:stop_id:FR-ARA-C38": "11525",
+        "gtfs:stop_name:FR-ARA-C38": "Champ Raillet",
+        "highway": "bus_stop",
+        "name": "Champ Raillet",
+        "public_transport": "platform",
+        "@timestamp": "2025-12-18T14:14:19Z",
+        "@version": 1,
+        "@changeset": 176097215,
+        "@user": "lolow-import",
+        "@uid": 23480106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.27615,
+          45.1248699
+        ]
+      },
+      "id": "node/13386557332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13386557333",
+        "bus": "yes",
+        "gtfs:stop_id:FR-ARA-C38": "11524",
+        "gtfs:stop_name:FR-ARA-C38": "Champ Raillet",
+        "highway": "bus_stop",
+        "name": "Champ Raillet",
+        "public_transport": "platform",
+        "@timestamp": "2025-12-18T14:14:19Z",
+        "@version": 1,
+        "@changeset": 176097215,
+        "@user": "lolow-import",
+        "@uid": 23480106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.27615,
+          45.1248599
+        ]
+      },
+      "id": "node/13386557333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13397390596",
+        "bus": "yes",
+        "gtfs:stop_id:FR-ARA-C38": "11548",
+        "gtfs:stop_name:FR-ARA-C38": "La Ferme Blanche",
+        "highway": "bus_stop",
+        "name": "La Ferme Blanche",
+        "public_transport": "platform",
+        "@timestamp": "2025-12-23T10:37:17Z",
+        "@version": 1,
+        "@changeset": 176301168,
+        "@user": "lolow-import",
+        "@uid": 23480106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.28499,
+          45.1217399
+        ]
+      },
+      "id": "node/13397390596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13397392514",
+        "bus": "yes",
+        "gtfs:stop_id:FR-ARA-C38": "11561",
+        "gtfs:stop_name:FR-ARA-C38": "La Croix de l'Image",
+        "highway": "bus_stop",
+        "name": "La Croix de l'Image",
+        "public_transport": "platform",
+        "@timestamp": "2025-12-23T10:37:17Z",
+        "@version": 1,
+        "@changeset": 176301168,
+        "@user": "lolow-import",
+        "@uid": 23480106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2687899,
+          45.11601
+        ]
+      },
+      "id": "node/13397392514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13397392515",
+        "bus": "yes",
+        "gtfs:stop_id:FR-ARA-C38": "11560",
+        "gtfs:stop_name:FR-ARA-C38": "La Croix de l'Image",
+        "highway": "bus_stop",
+        "name": "La Croix de l'Image",
+        "public_transport": "platform",
+        "@timestamp": "2025-12-23T10:37:17Z",
+        "@version": 1,
+        "@changeset": 176301168,
+        "@user": "lolow-import",
+        "@uid": 23480106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.26893,
+          45.11621
+        ]
+      },
+      "id": "node/13397392515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13397392578",
+        "bus": "yes",
+        "gtfs:stop_id:FR-ARA-C38": "11553",
+        "gtfs:stop_name:FR-ARA-C38": "L'Image",
+        "highway": "bus_stop",
+        "name": "L'Image",
+        "public_transport": "platform",
+        "@timestamp": "2025-12-23T10:37:17Z",
+        "@version": 1,
+        "@changeset": 176301168,
+        "@user": "lolow-import",
+        "@uid": 23480106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2635999,
+          45.1122599
+        ]
+      },
+      "id": "node/13397392578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13397392579",
+        "bus": "yes",
+        "gtfs:stop_id:FR-ARA-C38": "11552",
+        "gtfs:stop_name:FR-ARA-C38": "L'Image",
+        "highway": "bus_stop",
+        "name": "L'Image",
+        "public_transport": "platform",
+        "@timestamp": "2025-12-23T10:37:17Z",
+        "@version": 1,
+        "@changeset": 176301168,
+        "@user": "lolow-import",
+        "@uid": 23480106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.26375,
+          45.1124299
+        ]
+      },
+      "id": "node/13397392579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13397392683",
+        "bus": "yes",
+        "gtfs:stop_id:FR-ARA-C38": "11471",
+        "gtfs:stop_name:FR-ARA-C38": "Ferme Rozand",
+        "highway": "bus_stop",
+        "name": "Ferme Rozand",
+        "public_transport": "platform",
+        "@timestamp": "2025-12-23T10:37:17Z",
+        "@version": 1,
+        "@changeset": 176301168,
+        "@user": "lolow-import",
+        "@uid": 23480106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.25602,
+          45.0995899
+        ]
+      },
+      "id": "node/13397392683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13397392684",
+        "bus": "yes",
+        "gtfs:stop_id:FR-ARA-C38": "11470",
+        "gtfs:stop_name:FR-ARA-C38": "Ferme Rozand",
+        "highway": "bus_stop",
+        "name": "Ferme Rozand",
+        "public_transport": "platform",
+        "@timestamp": "2025-12-23T10:37:17Z",
+        "@version": 1,
+        "@changeset": 176301168,
+        "@user": "lolow-import",
+        "@uid": 23480106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.25611,
+          45.0995499
+        ]
+      },
+      "id": "node/13397392684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13408165732",
+        "bus": "yes",
+        "gtfs:stop_id:FR-ARA-C38": "20789",
+        "gtfs:stop_name:FR-ARA-C38": "La Vache",
+        "highway": "bus_stop",
+        "name": "La Vache",
+        "public_transport": "platform",
+        "@timestamp": "2025-12-26T06:48:15Z",
+        "@version": 1,
+        "@changeset": 176422449,
+        "@user": "lolow-import",
+        "@uid": 23480106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.26975,
+          45.11042
+        ]
+      },
+      "id": "node/13408165732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13408165743",
+        "bus": "yes",
+        "gtfs:stop_id:FR-ARA-C38": "11557",
+        "gtfs:stop_name:FR-ARA-C38": "La Serée",
+        "highway": "bus_stop",
+        "name": "La Serée",
+        "public_transport": "platform",
+        "@timestamp": "2025-12-26T06:48:15Z",
+        "@version": 1,
+        "@changeset": 176422449,
+        "@user": "lolow-import",
+        "@uid": 23480106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.27484,
+          45.1108399
+        ]
+      },
+      "id": "node/13408165743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13408165744",
+        "bus": "yes",
+        "gtfs:stop_id:FR-ARA-C38": "11556",
+        "gtfs:stop_name:FR-ARA-C38": "La Serée",
+        "highway": "bus_stop",
+        "name": "La Serée",
+        "public_transport": "platform",
+        "@timestamp": "2025-12-26T06:48:15Z",
+        "@version": 1,
+        "@changeset": 176422449,
+        "@user": "lolow-import",
+        "@uid": 23480106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.27493,
+          45.1108099
+        ]
+      },
+      "id": "node/13408165744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13408165810",
+        "bus": "yes",
+        "gtfs:stop_id:FR-ARA-C38": "11555",
+        "gtfs:stop_name:FR-ARA-C38": "La Gare",
+        "highway": "bus_stop",
+        "name": "La Gare",
+        "public_transport": "platform",
+        "@timestamp": "2025-12-26T06:48:15Z",
+        "@version": 1,
+        "@changeset": 176422449,
+        "@user": "lolow-import",
+        "@uid": 23480106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2800599,
+          45.12423
+        ]
+      },
+      "id": "node/13408165810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13408165811",
+        "bus": "yes",
+        "gtfs:stop_id:FR-ARA-C38": "11554",
+        "gtfs:stop_name:FR-ARA-C38": "La Gare",
+        "highway": "bus_stop",
+        "name": "La Gare",
+        "public_transport": "platform",
+        "@timestamp": "2025-12-26T06:48:15Z",
+        "@version": 1,
+        "@changeset": 176422449,
+        "@user": "lolow-import",
+        "@uid": 23480106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2799999,
+          45.12436
+        ]
+      },
+      "id": "node/13408165811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13412886457",
+        "bus": "yes",
+        "gtfs:stop_id:FR-ARA-C38": "11511",
+        "gtfs:stop_name:FR-ARA-C38": "Le Silo",
+        "highway": "bus_stop",
+        "name": "Le Silo",
+        "public_transport": "platform",
+        "@timestamp": "2025-12-28T09:12:29Z",
+        "@version": 1,
+        "@changeset": 176517787,
+        "@user": "lolow-import",
+        "@uid": 23480106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.25858,
+          45.10511
+        ]
+      },
+      "id": "node/13412886457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13412886458",
+        "bus": "yes",
+        "gtfs:stop_id:FR-ARA-C38": "11510",
+        "gtfs:stop_name:FR-ARA-C38": "Le Silo",
+        "highway": "bus_stop",
+        "name": "Le Silo",
+        "public_transport": "platform",
+        "@timestamp": "2025-12-28T09:12:29Z",
+        "@version": 1,
+        "@changeset": 176517787,
+        "@user": "lolow-import",
+        "@uid": 23480106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2585899,
+          45.10511
+        ]
+      },
+      "id": "node/13412886458"
+    }
+  ]
+}

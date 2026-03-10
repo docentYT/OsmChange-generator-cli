@@ -1,0 +1,165 @@
+<?xml version="1.0" ?>
+<osmChange version="0.6" generator="OsmChange-generator-cli">
+	<delete>
+		<node id="13347769796" version="1" changeset="1" lat="45.1117499" lon="5.2787699">
+			<tag k="bus" v="yes"/>
+			<tag k="gtfs:stop_id:FR-ARA-C38" v="11547"/>
+			<tag k="gtfs:stop_name:FR-ARA-C38" v="Bourg"/>
+			<tag k="highway" v="bus_stop"/>
+			<tag k="name" v="Bourg"/>
+			<tag k="public_transport" v="platform"/>
+		</node>
+		<node id="13347769797" version="1" changeset="1" lat="45.11185" lon="5.27903">
+			<tag k="bus" v="yes"/>
+			<tag k="gtfs:stop_id:FR-ARA-C38" v="11546"/>
+			<tag k="gtfs:stop_name:FR-ARA-C38" v="Bourg"/>
+			<tag k="highway" v="bus_stop"/>
+			<tag k="name" v="Bourg"/>
+			<tag k="public_transport" v="platform"/>
+		</node>
+		<node id="13366927375" version="1" changeset="1" lat="45.1076999" lon="5.2686099">
+			<tag k="bus" v="yes"/>
+			<tag k="gtfs:stop_id:FR-ARA-C38" v="11543"/>
+			<tag k="gtfs:stop_name:FR-ARA-C38" v="Carrefour L'Allière"/>
+			<tag k="highway" v="bus_stop"/>
+			<tag k="name" v="Carrefour L'Allière"/>
+			<tag k="public_transport" v="platform"/>
+		</node>
+		<node id="13366927376" version="1" changeset="1" lat="45.1076299" lon="5.26858">
+			<tag k="bus" v="yes"/>
+			<tag k="gtfs:stop_id:FR-ARA-C38" v="11542"/>
+			<tag k="gtfs:stop_name:FR-ARA-C38" v="Carrefour L'Allière"/>
+			<tag k="highway" v="bus_stop"/>
+			<tag k="name" v="Carrefour L'Allière"/>
+			<tag k="public_transport" v="platform"/>
+		</node>
+		<node id="13386557332" version="1" changeset="1" lat="45.1248699" lon="5.27615">
+			<tag k="bus" v="yes"/>
+			<tag k="gtfs:stop_id:FR-ARA-C38" v="11525"/>
+			<tag k="gtfs:stop_name:FR-ARA-C38" v="Champ Raillet"/>
+			<tag k="highway" v="bus_stop"/>
+			<tag k="name" v="Champ Raillet"/>
+			<tag k="public_transport" v="platform"/>
+		</node>
+		<node id="13386557333" version="1" changeset="1" lat="45.1248599" lon="5.27615">
+			<tag k="bus" v="yes"/>
+			<tag k="gtfs:stop_id:FR-ARA-C38" v="11524"/>
+			<tag k="gtfs:stop_name:FR-ARA-C38" v="Champ Raillet"/>
+			<tag k="highway" v="bus_stop"/>
+			<tag k="name" v="Champ Raillet"/>
+			<tag k="public_transport" v="platform"/>
+		</node>
+		<node id="13397390596" version="1" changeset="1" lat="45.1217399" lon="5.28499">
+			<tag k="bus" v="yes"/>
+			<tag k="gtfs:stop_id:FR-ARA-C38" v="11548"/>
+			<tag k="gtfs:stop_name:FR-ARA-C38" v="La Ferme Blanche"/>
+			<tag k="highway" v="bus_stop"/>
+			<tag k="name" v="La Ferme Blanche"/>
+			<tag k="public_transport" v="platform"/>
+		</node>
+		<node id="13397392514" version="1" changeset="1" lat="45.11601" lon="5.2687899">
+			<tag k="bus" v="yes"/>
+			<tag k="gtfs:stop_id:FR-ARA-C38" v="11561"/>
+			<tag k="gtfs:stop_name:FR-ARA-C38" v="La Croix de l'Image"/>
+			<tag k="highway" v="bus_stop"/>
+			<tag k="name" v="La Croix de l'Image"/>
+			<tag k="public_transport" v="platform"/>
+		</node>
+		<node id="13397392515" version="1" changeset="1" lat="45.11621" lon="5.26893">
+			<tag k="bus" v="yes"/>
+			<tag k="gtfs:stop_id:FR-ARA-C38" v="11560"/>
+			<tag k="gtfs:stop_name:FR-ARA-C38" v="La Croix de l'Image"/>
+			<tag k="highway" v="bus_stop"/>
+			<tag k="name" v="La Croix de l'Image"/>
+			<tag k="public_transport" v="platform"/>
+		</node>
+		<node id="13397392578" version="1" changeset="1" lat="45.1122599" lon="5.2635999">
+			<tag k="bus" v="yes"/>
+			<tag k="gtfs:stop_id:FR-ARA-C38" v="11553"/>
+			<tag k="gtfs:stop_name:FR-ARA-C38" v="L'Image"/>
+			<tag k="highway" v="bus_stop"/>
+			<tag k="name" v="L'Image"/>
+			<tag k="public_transport" v="platform"/>
+		</node>
+		<node id="13397392579" version="1" changeset="1" lat="45.1124299" lon="5.26375">
+			<tag k="bus" v="yes"/>
+			<tag k="gtfs:stop_id:FR-ARA-C38" v="11552"/>
+			<tag k="gtfs:stop_name:FR-ARA-C38" v="L'Image"/>
+			<tag k="highway" v="bus_stop"/>
+			<tag k="name" v="L'Image"/>
+			<tag k="public_transport" v="platform"/>
+		</node>
+		<node id="13397392683" version="1" changeset="1" lat="45.0995899" lon="5.25602">
+			<tag k="bus" v="yes"/>
+			<tag k="gtfs:stop_id:FR-ARA-C38" v="11471"/>
+			<tag k="gtfs:stop_name:FR-ARA-C38" v="Ferme Rozand"/>
+			<tag k="highway" v="bus_stop"/>
+			<tag k="name" v="Ferme Rozand"/>
+			<tag k="public_transport" v="platform"/>
+		</node>
+		<node id="13397392684" version="1" changeset="1" lat="45.0995499" lon="5.25611">
+			<tag k="bus" v="yes"/>
+			<tag k="gtfs:stop_id:FR-ARA-C38" v="11470"/>
+			<tag k="gtfs:stop_name:FR-ARA-C38" v="Ferme Rozand"/>
+			<tag k="highway" v="bus_stop"/>
+			<tag k="name" v="Ferme Rozand"/>
+			<tag k="public_transport" v="platform"/>
+		</node>
+		<node id="13408165732" version="1" changeset="1" lat="45.11042" lon="5.26975">
+			<tag k="bus" v="yes"/>
+			<tag k="gtfs:stop_id:FR-ARA-C38" v="20789"/>
+			<tag k="gtfs:stop_name:FR-ARA-C38" v="La Vache"/>
+			<tag k="highway" v="bus_stop"/>
+			<tag k="name" v="La Vache"/>
+			<tag k="public_transport" v="platform"/>
+		</node>
+		<node id="13408165743" version="1" changeset="1" lat="45.1108399" lon="5.27484">
+			<tag k="bus" v="yes"/>
+			<tag k="gtfs:stop_id:FR-ARA-C38" v="11557"/>
+			<tag k="gtfs:stop_name:FR-ARA-C38" v="La Serée"/>
+			<tag k="highway" v="bus_stop"/>
+			<tag k="name" v="La Serée"/>
+			<tag k="public_transport" v="platform"/>
+		</node>
+		<node id="13408165744" version="1" changeset="1" lat="45.1108099" lon="5.27493">
+			<tag k="bus" v="yes"/>
+			<tag k="gtfs:stop_id:FR-ARA-C38" v="11556"/>
+			<tag k="gtfs:stop_name:FR-ARA-C38" v="La Serée"/>
+			<tag k="highway" v="bus_stop"/>
+			<tag k="name" v="La Serée"/>
+			<tag k="public_transport" v="platform"/>
+		</node>
+		<node id="13408165810" version="1" changeset="1" lat="45.12423" lon="5.2800599">
+			<tag k="bus" v="yes"/>
+			<tag k="gtfs:stop_id:FR-ARA-C38" v="11555"/>
+			<tag k="gtfs:stop_name:FR-ARA-C38" v="La Gare"/>
+			<tag k="highway" v="bus_stop"/>
+			<tag k="name" v="La Gare"/>
+			<tag k="public_transport" v="platform"/>
+		</node>
+		<node id="13408165811" version="1" changeset="1" lat="45.12436" lon="5.2799999">
+			<tag k="bus" v="yes"/>
+			<tag k="gtfs:stop_id:FR-ARA-C38" v="11554"/>
+			<tag k="gtfs:stop_name:FR-ARA-C38" v="La Gare"/>
+			<tag k="highway" v="bus_stop"/>
+			<tag k="name" v="La Gare"/>
+			<tag k="public_transport" v="platform"/>
+		</node>
+		<node id="13412886457" version="1" changeset="1" lat="45.10511" lon="5.25858">
+			<tag k="bus" v="yes"/>
+			<tag k="gtfs:stop_id:FR-ARA-C38" v="11511"/>
+			<tag k="gtfs:stop_name:FR-ARA-C38" v="Le Silo"/>
+			<tag k="highway" v="bus_stop"/>
+			<tag k="name" v="Le Silo"/>
+			<tag k="public_transport" v="platform"/>
+		</node>
+		<node id="13412886458" version="1" changeset="1" lat="45.10511" lon="5.2585899">
+			<tag k="bus" v="yes"/>
+			<tag k="gtfs:stop_id:FR-ARA-C38" v="11510"/>
+			<tag k="gtfs:stop_name:FR-ARA-C38" v="Le Silo"/>
+			<tag k="highway" v="bus_stop"/>
+			<tag k="name" v="Le Silo"/>
+			<tag k="public_transport" v="platform"/>
+		</node>
+	</delete>
+</osmChange>

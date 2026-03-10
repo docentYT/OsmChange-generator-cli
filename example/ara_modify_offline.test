@@ -1,0 +1,5 @@
+tag=id
+opts='--create --delete --modify --modify-opts 23480106 gtfs:stop_name:FR-ARA-C38,gtfs:stop_id:FR-ARA-C38,position False'
+input=ara.geojson
+ref=ara.osm.geojson
+valid_output=ara_modify_offline.osc
