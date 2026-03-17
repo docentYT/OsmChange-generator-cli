@@ -1,5 +1,0 @@
-tag=ref
-opts='--create --delete'
-input=example1.geojson
-ref=example2.osm.geojson
-valid_output=example2.osc

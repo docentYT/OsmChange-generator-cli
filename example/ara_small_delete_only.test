@@ -1,5 +1,0 @@
-tag=id
-opts='--delete'
-input=ara.geojson
-ref=ara_small.osm.geojson
-valid_output=ara_small_delete_only.osc
